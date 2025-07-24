@@ -22,4 +22,4 @@ Empower traditional Indian services — from astrology to hospitality — with s
 ---
 
 📬 Let's connect:  
-[LinkedIn]((https://www.linkedin.com/in/pstechvirus/)) | [rudrapayingguesthouse.com](https://www.rudrapayingguesthouse.com)  
+[LinkedIn](https://www.linkedin.com/in/pstechvirus/) | [rudrapayingguesthouse.com](https://www.rudrapayingguesthouse.com)  
