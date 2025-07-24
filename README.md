@@ -1,37 +1,25 @@
-# 👨‍💻 Prashant Kumar Sharma – Ethical Hacker & Bug Bounty Hunter
+# 👋 Hello, I'm Prashant Kumar Sharma
 
-🎯 **Focused on Web Application Security | CVE Learnings | Bug Hunting Logs**
+I'm a passionate full-stack developer, bug bounty hunter, and tech entrepreneur from Varanasi 🇮🇳.  
+With a strong background in **Cybersecurity** and **App Development**, I build real-world solutions that serve both tradition and tech.
 
----
+### 💼 Projects
+- **Rudra Paying Guest House**: Smart check-in system, auto-printing with PrintNode, room booking with Flutter + Firebase
+- **KashiAstro**: Offline astrology & numerology app powered by Vedic insights
+- **Sea Treasure**: Tech-driven rooftop café, Zomato-integrated, POS with Petpooja
 
-## 🧠 About Me
+### 🔐 Cybersecurity
+- Active bug bounty hunter on live targets like Dyson  
+- Specialized in: Recon automation, JS endpoint analysis, weak TLS exploitation  
+- Completed HTB modules: `GoodGames`, `DevVortex`, `Paper`, `Writeup`
 
-Hi, I'm Prashant – an ethical hacker passionate about securing the web. I focus on:
+### 🛠️ Tech Stack
+`Flutter` `Firebase` `Dart` `Python` `Node.js` `SQL` `Linux` `Burp Suite` `Nuclei` `ffuf` `bash`
 
-- ✅ Web App Vulnerabilities (XSS, IDOR, SSRF, RCE)
-- ✅ Bug bounty on platforms like hackthebox.com
-- ✅ CVE Research & Exploit Development
-
-I'm continuously learning, building tools, and writing redacted reports to help others grow in the infosec space.
-
----
-
-## 📚 CVE Learnings
-
-- **CVE-2021-26084** – Atlassian Confluence OGNL Injection
-  - Learned exploiting OGNL expressions in templates.
-  - Focus: CVE structure, patch diffing, writing PoCs.
+### 🔮 My Vision
+Empower traditional Indian services — from astrology to hospitality — with secure and scalable tech.
 
 ---
 
-## 📝 Redacted Bug Report
-
-```txt
-🔍 Target: [REDACTED].com
-Issue: IDOR in user profile update
-Severity: High
-Steps to Reproduce:
-1. Login as user A
-2. Capture PUT /api/user/123
-3. Change user ID to 124 and update
-Impact: Full account takeover
+📬 Let's connect:  
+[LinkedIn](https://linkedin.com/in/prashant11nov) | [rudrapayingguesthouse.com](https://www.rudrapayingguesthouse.com)  
